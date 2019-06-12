@@ -2,7 +2,7 @@ const gifts = [
   {
     id: 1,
     name: '8 pairs of socks',
-    image: 'https://cdn.shopify.com/s/files/1/1631/8771/products/wnc871-ggr_gumby_gumby_green_1_large.jpg?v=1494450059'
+    image: 'https://images-na.ssl-images-amazon.com/images/I/A1a8LMFxWdL._UX569_.jpg'
   },
   {
     id: 2,
@@ -18,6 +18,6 @@ const gifts = [
   {
     id: 4,
     name: 'the last dab',
-    image: 'https://cdn.shopify.com/s/files/1/2086/9287/products/LAstdabReduxx_1024x1024-1_1024x1024.jpg?v=1527778720'
+    image: 'https://i.pinimg.com/736x/55/50/57/555057da80729dec6aa5de6cfc8839a1.jpg'
   }
 ]
